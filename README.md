@@ -4,20 +4,12 @@
 
 ## Languages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-86a7ea?style=for-the-badge&logo=postman&logoColor=f26b3a)
-
 ![CharlesProxy](https://img.shields.io/badge/-CharlesProxy-86a7ea?style=for-the-badge&logo=Charles&logoColor=f26b3a)
-
 ![postgresql](https://img.shields.io/badge/-postgresql-86a7ea?style=for-the-badge&logo=postgresql&logoColor=336791)
-
 ![Swagger](https://img.shields.io/badge/-Swagger-86a7ea?style=for-the-badge&logo=swagger&logoColor=336791)
-
 ![BASH](https://img.shields.io/badge/-BASH-86a7ea?style=for-the-badge&logo=Bash&logoColor=336791)
-
 ![Adobe](https://img.shields.io/badge/-adobe-86a7ea?style=for-the-badge&logo=Adobe&logoColor=fb0f01)
-
 ![Figma](https://img.shields.io/badge/-figma-86a7ea?style=for-the-badge&logo=Figma&logoColor=f24d18)
-
-
 ![Jira](https://img.shields.io/badge/-Jira-86a7ea?style=for-the-badge&logo=Jira&logoColor=004fc6)
 
 
