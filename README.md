@@ -1,6 +1,5 @@
 ![Header](https://github.com/AnastBez/AnastBez/blob/main/assets/header.png)
-# About me: 
-## I am a beginner QA Engineer. I want to start developing in this profession. Ready to start the role of an intern or junior tester. [Here is my resume link.](https://spb.hh.ru/applicant/resumes/view?resume=98f18b5bff036a33680039ed1f616a5a436b38)
+## About me: I am a beginner QA Engineer. I want to start developing in this profession. Ready to start the role of an intern or junior tester. [Here is my resume link.](https://spb.hh.ru/applicant/resumes/view?resume=98f18b5bff036a33680039ed1f616a5a436b38)
 
 ## Languages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-86a7ea?style=for-the-badge&logo=postman&logoColor=f26b3a)
