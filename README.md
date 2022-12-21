@@ -15,12 +15,9 @@
 
 ## Testing Documentations
 - [Checklists](https://drive.google.com/drive/folders/1qaW9UY9-4PJ9oX5PFqkNLR1GDChKwzLm)
-- [Test-Suets and Test-Cases]()
-- [Bug-Reports]()
-- [Postman Collections]()
-- [SQL Queries]()
+- [Test-Suets and Test-Cases](https://drive.google.com/drive/folders/1Wrj_k9Z7n57b2HBaBCJ2_8yAdYsPIax7?usp=sharing)
+- Bug-Reports (https://anastbez.youtrack.cloud/projects/fe4b8073-58c5-40fa-8202-1e0de4e5ba37)
 
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-88DBE1?style=for-the-badge&logo=Telegram&logoColor=010304)](https://t.me/WoodstockCat)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnastBez)](https://github.com/anuraghazra/github-readme-stats)
